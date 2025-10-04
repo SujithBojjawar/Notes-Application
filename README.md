@@ -17,7 +17,7 @@ Users can perform all CRUD (Create, Read, Update, Delete) operations with an eas
 
 🏗️ Tech Stack
 
-Frontend → React.js (to be integrated)
+Frontend → React.js
 
 Backend → Node.js + Express.js
 
