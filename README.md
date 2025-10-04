@@ -25,10 +25,3 @@ Database → MongoDB (for persistent note storage)
 
 Tools → Postman (API testing), Nodemon (server auto-restart in dev mode)
 
-🚀 Current Status
-
-✅ Backend API with CRUD routes completed.
-
-✅ Modularized using MVC architecture (routes + controllers).
-
-⏳ Next step: Connect with MongoDB & integrate frontend UI.
